@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body.stile {
+  background-color: grey;
+  font-size: 14px;
+  font-family: Arial;
+  line-height: 170%;
+  margin: auto;
+  width: 70%;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 3px solid black;
+  float: left;
+  width: 200px;
+  background-color: white;
+}
+
+div.gallery:hover {
+  border: 1px solid whitesmoke;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 5px;
+  text-align: center;
+}

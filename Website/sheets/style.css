@@ -1,0 +1,344 @@
+body.stile {
+  background-color: beige;
+  font-size: 14px;
+  font-family: Arial;
+  line-height: 170%;
+  margin: auto;
+}
+
+#heading {
+  text-align: center;
+  color: cadetblue;
+  font-weight: normal;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+  line-height: 1.3;
+  font-size: 1.8em;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: bisque;
+  background-color: bisque;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  text-shadow: 5px 5px 7px aqua;
+  box-shadow: 5px 10px;
+}
+
+.width {
+  box-sizing: content-box;
+  width: 70%;
+}
+
+.paragraf {
+  color: black;
+  text-shadow: 3px 3px 4px white;
+  font-size: 16px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.titlepara {
+  color: black;
+  text-shadow: 3px 3px 4px grey;
+  font-size: 18px;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+  margin-top: 80px;
+}
+
+.titlepara1 {
+  color: black;
+  text-shadow: 3px 3px 4px grey;
+  font-size: 18px;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+}
+
+/*Center image*/
+/* .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: dotted;
+} */
+
+pre.stilche {
+  color: black;
+  text-shadow: 3px 3px 4px lightskyblue;
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+div.format1 {
+  font-size: 18px;
+  background-color: bisque;
+  float: left;
+  border: solid gray;
+  border-style: double;
+  margin-top: 50px;
+  padding-top: 20px;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+}
+
+.format2 {
+  font-size: 18px;
+  background-color: bisque;
+  border: solid gray;
+  border-style: double;
+  float: left;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+}
+
+.format3 {
+  font-size: 18px;
+  background-color: bisque;
+  float: left;
+  border: solid gray;
+  border-style: double;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+}
+
+.referals {
+  font-size: 18px;
+  background-color: lemonchiffon;
+  border: solid grey;
+  border-style: double;
+}
+
+.footer {
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: bisque;
+  color: black;
+  text-align: center;
+  border-style: double;
+}
+
+body.stilePlato {
+  background-color: green;
+  font-size: 14px;
+  font-family: Arial;
+  line-height: 170%;
+  margin: auto;
+}
+
+#headingPLato {
+  text-align: center;
+  color: white;
+  font-weight: normal;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+  line-height: 1.3;
+  font-size: 1.8em;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: greenyellow;
+  background-color: greenyellow;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  text-shadow: 5px 5px 7px black;
+  box-shadow: 5px 10px;
+}
+
+.paragrafPlato {
+  color: white;
+  text-shadow: 3px 3px 4px black;
+  font-size: 16px;
+  font-family: cursive;
+  text-align: left;
+}
+
+.titleparaPlato {
+  color: white;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: greenyellow;
+  background-color: greenyellow;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  text-shadow: 5px 5px 7px black;
+  font-size: 18px;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+}
+
+.referalsPlato {
+  font-size: 18px;
+  background-color: greenyellow;
+  border: solid lemonchiffon;
+  border-style: double;
+  border-width: 5px;
+}
+
+.right {
+  padding: 10px;
+  float: right;
+}
+
+.left {
+  padding: 10px;
+  float: left;
+}
+
+table.qsha {
+  background: lemonchiffon;
+  color: #000;
+  float: right;
+  clear: right;
+  margin: 0 0 0.5em 1em;
+  width: 300px;
+  border: 1px solid black;
+  padding: 0.1em;
+}
+
+.listove {
+  color: white;
+  padding: 10px;
+  text-shadow: 5px 5px 7px black;
+  font-size: 18px;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+.links {
+  color: azure;
+  font-size: 20px;
+  text-align: center;
+  font-family: cursive;
+}
+
+body.stileSoc {
+  background-color: aquamarine;
+  font-size: 14px;
+  font-family: sans-serif;
+  line-height: 170%;
+  margin: auto;
+}
+
+#headingSoc {
+  text-align: center;
+  color: whitesmoke;
+  font-weight: normal;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+  line-height: 1.3;
+  font-size: 1.8em;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: teal;
+  background-color: teal;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  text-shadow: 5px 5px 7px aqua;
+  box-shadow: 5px 10px;
+}
+
+.leftSoc {
+  padding: 10px;
+  float: left;
+  border-color: black;
+  border: double;
+}
+
+.rightSoc {
+  padding: 10px;
+  float: right;
+  border-color: black;
+  border: double;
+}
+.center {
+  padding: 10px;
+  border-color: black;
+  border: double;
+}
+
+.paragrafSoc {
+  color: black;
+  text-shadow: 3px 3px 4px white;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.paragrafSoc2 {
+  color: black;
+  text-shadow: 3px 3px 4px white;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  column-count: 3;
+  column-gap: 15px;
+  column-rule-color: aliceblue;
+  column-rule-width: 5px;
+  column-rule-style: double;
+}
+
+.referalsSoc {
+  font-size: 18px;
+  background-color: teal;
+  border: solid aqua;
+  border-style: double;
+}
+
+body.stileAri {
+  background-color: chocolate;
+  font-size: 14px;
+  font-family: Arial;
+  line-height: 170%;
+  margin: auto;
+}
+
+#headingAri {
+  text-align: center;
+  color: white;
+  font-weight: normal;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+  line-height: 1.3;
+  font-size: 1.8em;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: darksalmon;
+  background-color: darksalmon;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  text-shadow: 5px 5px 7px gold;
+  box-shadow: 5px 10px;
+}
+
+.paragrafAri {
+  color: white;
+  text-shadow: 4px 4px 6px black;
+  font-size: 16px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.referalsAri {
+  font-size: 18px;
+  background-color: white;
+  border: solid black;
+  border-style: double;
+}
+
+body.stileGame {
+  background-color: black;
+  font-size: 14px;
+  font-family: Arial;
+  line-height: 170%;
+  margin: auto;
+  width: 70%;
+}
+
+video.stil {
+  margin-left: 100px;
+  padding-left: 50px;
+}
+
+.referals {
+  font-size: 18px;
+  background-color: lemonchiffon;
+  border: solid grey;
+  border-style: double;
+  margin-top: 50px;
+}

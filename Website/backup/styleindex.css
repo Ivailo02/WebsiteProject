@@ -1,0 +1,121 @@
+body.stile {
+  background-color: beige;
+  font-size: 14px;
+  font-family: Arial;
+  line-height: 170%;
+  margin: auto;
+  width: 70%;
+}
+
+#heading {
+  text-align: center;
+  color: cadetblue;
+  font-weight: normal;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+  line-height: 1.3;
+  font-size: 1.8em;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: bisque;
+  background-color: bisque;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  text-shadow: 5px 5px 7px aqua;
+  box-shadow: 5px 10px;
+}
+
+.paragraf {
+  color: black;
+  text-shadow: 3px 3px 4px white;
+  font-size: 16px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.titlepara {
+  color: black;
+  text-shadow: 3px 3px 4px grey;
+  font-size: 18px;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+  margin-top: 80px;
+}
+
+.titlepara1 {
+  color: black;
+  text-shadow: 3px 3px 4px grey;
+  font-size: 18px;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+}
+
+.left {
+  padding: 10px;
+  float: right;
+}
+
+.right {
+  padding: 10px;
+  float: left;
+}
+
+/*Center image*/
+/* .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: dotted;
+} */
+
+pre.stilche {
+  color: black;
+  text-shadow: 3px 3px 4px lightskyblue;
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+div.format1 {
+  font-size: 18px;
+  background-color: bisque;
+  float: left;
+  border: solid gray;
+  border-style: double;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+}
+
+.format2 {
+  font-size: 18px;
+  background-color: bisque;
+  border: solid gray;
+  border-style: double;
+  float: left;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+}
+
+.format3 {
+  font-size: 18px;
+  background-color: bisque;
+  float: left;
+  border: solid gray;
+  border-style: double;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+}
+
+.referals {
+  font-size: 18px;
+  background-color: lemonchiffon;
+  border: solid grey;
+  border-style: double;
+}
+
+.footer {
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: bisque;
+  color: black;
+  text-align: center;
+  border-style: double;
+}

@@ -1,0 +1,71 @@
+body.stile {
+  background-color: aquamarine;
+  font-size: 14px;
+  font-family: sans-serif;
+  line-height: 170%;
+  margin: auto;
+  width: 70%;
+}
+
+#heading {
+  text-align: center;
+  color: whitesmoke;
+  font-weight: normal;
+  font-family: "Linux Libertine", "Georgia", "Times", serif;
+  line-height: 1.3;
+  font-size: 1.8em;
+  border-style: solid;
+  border-radius: 50px;
+  border-color: teal;
+  background-color: teal;
+  padding: 10px;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  text-shadow: 5px 5px 7px aqua;
+  box-shadow: 5px 10px;
+}
+
+.left {
+  padding: 10px;
+  float: left;
+  border-color: black;
+  border: double;
+}
+
+.right {
+  padding: 10px;
+  float: right;
+  border-color: black;
+  border: double;
+}
+.center {
+  padding: 10px;
+  border-color: black;
+  border: double;
+}
+
+.paragraf {
+  color: black;
+  text-shadow: 3px 3px 4px white;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.paragraf {
+  color: black;
+  text-shadow: 3px 3px 4px white;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  column-count: 3;
+  column-gap: 15px;
+  column-rule-color: aliceblue;
+  column-rule-width: 5px;
+  column-rule-style: double;
+}
+
+.referals {
+  font-size: 18px;
+  background-color: teal;
+  border: solid aqua;
+  border-style: double;
+}
